@@ -2,6 +2,7 @@ export default {
   lang: 'en-US',
   title: 'blogger-go',
   description: 'Go SDK for Blogger API v3',
+  srcExclude: ['**/AGENTS.md'],
   themeConfig: {
     nav: [
       { text: 'Guide', link: '/guide/introduction' },
